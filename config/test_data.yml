@@ -1,0 +1,9 @@
+username:
+  standard_user: 'standard_user'
+  locked_out_user: 'locked_out_user'
+  problem_user: 'problem_user'
+  performance_glitch_user: 'performance_glitch_user'
+  invalid_user: 'invaliduser'
+password:
+  all_password: 'secret_sauce'
+  invalid_password: 'invalidpassword'
